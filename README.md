@@ -1,4 +1,4 @@
-# Análise SQL - Desafio Méliuz (Completo)
+# Análise SQL - Desafio Méliuz
 
 
 Este documento reúne as consultas SQL, os resultados (data outputs) e explicações para todas as perguntas do desafio técnico.
