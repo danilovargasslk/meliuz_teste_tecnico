@@ -1,6 +1,5 @@
 # Análise SQL - Desafio Méliuz (Completo)
 
-**Autor:** ___________________
 
 Este documento reúne as consultas SQL, os resultados (data outputs) e explicações para todas as perguntas do desafio técnico.
 
@@ -8,7 +7,7 @@ Este documento reúne as consultas SQL, os resultados (data outputs) e explicaç
 
 ## Pergunta 1: Qual grupo você escolheria para ser a nossa funcionalidade? Por quê?
 
-### Consulta SQL (corrigida — análise por grupo)
+### Consulta SQL 
 
 ```sql
 WITH analise_por_grupo AS (
