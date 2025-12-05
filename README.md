@@ -3,6 +3,9 @@
 
 Este documento reúne as consultas SQL, os resultados (data outputs) e explicações para todas as perguntas do desafio técnico.
 
+<img width="955" height="780" alt="image" src="https://github.com/user-attachments/assets/927f6ca0-245a-476a-9b33-d2480dfd5ac4" />
+
+
 ---
 
 ## Pergunta 1: Qual grupo você escolheria para ser a nossa funcionalidade? Por quê?
